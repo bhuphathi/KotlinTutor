@@ -7,7 +7,21 @@ fun main() {
 
     //https://youtu.be/EExSSotojVI?t=38447
     //arrayOf:
-    //listOf, mutableListOf:  (methods: zip, unzip, associateWith, associatedBy, flatten)
+    //https://youtu.be/EExSSotojVI?t=40186
+    //listOf, mutableListOf:  (methods:
+    //            https://youtu.be/EExSSotojVI?t=38476: { zip, unzip },
+    //            https://youtu.be/EExSSotojVI?t=39546: { associateWith, associatedBy, flatten },
+    //            https://youtu.be/EExSSotojVI?t=40401: filter,
+    //            https://youtu.be/EExSSotojVI?t=41411: { filterIndexed, filterNot, filterIsInstance, partition },
+    //            https://youtu.be/EExSSotojVI?t=41976: groupBy,
+    //            https://youtu.be/EExSSotojVI?t=42211: slice,
+    //            https://youtu.be/EExSSotojVI?t=42329: { take, takeLast, drop, dropLast }
+    //            https://youtu.be/EExSSotojVI?t=43155: { takeWhile, takeLastWhile, dropWhile, dropLastWhile, takeLastWhile, dropWhile, dropLastWhile, chunked, windowed }
+    //            https://youtu.be/EExSSotojVI?t=43461: { elementAt, first, last, random, isEmpty }
+    //            https://youtu.be/EExSSotojVI?t=43760: { sum, count, average, maxOrNull, minOrNull, sumOf }
+    //            https://youtu.be/EExSSotojVI?t=44906: { sorted, customSorted with Comparator Class}
+    //            https://youtu.be/EExSSotojVI?t=45018: { sortedWith, sortedBy }
+
     //mapOf, mutableMapOf: unique data object with key, value (methods: mapKeys, mapValues)
     //setOf, mutableSetOf: unique data array (methods: map, mapIndexedNotNull)
 
