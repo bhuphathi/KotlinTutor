@@ -116,4 +116,6 @@ fun main() {
 
     println("list: $list")
     println("flat list: $flat")
+
+    smartDevice()
 }
